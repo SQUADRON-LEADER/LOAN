@@ -1,0 +1,69 @@
+{
+  "target_column": "Loan_Approved",
+  "dropped_columns": [
+    "Applicant_ID"
+  ],
+  "feature_columns": [
+    "Applicant_Income",
+    "Coapplicant_Income",
+    "Employment_Status",
+    "Age",
+    "Marital_Status",
+    "Dependents",
+    "Credit_Score",
+    "Existing_Loans",
+    "DTI_Ratio",
+    "Savings",
+    "Collateral_Value",
+    "Loan_Amount",
+    "Loan_Term",
+    "Loan_Purpose",
+    "Property_Area",
+    "Education_Level",
+    "Gender",
+    "Employer_Category"
+  ],
+  "categorical_features": [
+    "Employment_Status",
+    "Marital_Status",
+    "Loan_Purpose",
+    "Property_Area",
+    "Education_Level",
+    "Gender",
+    "Employer_Category"
+  ],
+  "numeric_features": [
+    "Applicant_Income",
+    "Coapplicant_Income",
+    "Age",
+    "Dependents",
+    "Credit_Score",
+    "Existing_Loans",
+    "DTI_Ratio",
+    "Savings",
+    "Collateral_Value",
+    "Loan_Amount",
+    "Loan_Term"
+  ],
+  "best_model_name": "logistic_regression",
+  "metrics": {
+    "logistic_regression": {
+      "f1_weighted": 0.8824693312227937,
+      "accuracy": 0.8842105263157894,
+      "precision_weighted": 0.8827829377364982,
+      "recall_weighted": 0.8842105263157894
+    },
+    "knn": {
+      "f1_weighted": 0.7980668756530827,
+      "accuracy": 0.8,
+      "precision_weighted": 0.796908315565032,
+      "recall_weighted": 0.8
+    },
+    "naive_bayes": {
+      "f1_weighted": 0.8717847249703206,
+      "accuracy": 0.8736842105263158,
+      "precision_weighted": 0.8719040247678018,
+      "recall_weighted": 0.8736842105263158
+    }
+  }
+}
