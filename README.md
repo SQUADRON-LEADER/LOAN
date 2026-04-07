@@ -50,6 +50,14 @@ The application provides a simple and interactive UI where users can input their
 
 ---
 
+<img width="1903" height="855" alt="Screenshot 2026-04-07 154542" src="https://github.com/user-attachments/assets/1f69a27c-0e11-487a-94d3-d8cc91bd3913" />
+
+
+
+
+
+
+
 ## 🛠️ Tech Stack
 
 * **Frontend:** Streamlit
