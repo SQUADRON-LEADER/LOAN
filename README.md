@@ -64,6 +64,8 @@ The application provides a simple and interactive UI where users can input their
 <br>
 <br>
 
+<img width="1799" height="347" alt="Screenshot 2026-04-07 155000" src="https://github.com/user-attachments/assets/472d3cc3-5327-41a1-aa9a-0e4acc74b581" />
+
 
 
 ## 🛠️ Tech Stack
