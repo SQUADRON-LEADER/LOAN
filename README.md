@@ -51,12 +51,18 @@ The application provides a simple and interactive UI where users can input their
 ---
 
 <img width="1903" height="855" alt="Screenshot 2026-04-07 154542" src="https://github.com/user-attachments/assets/1f69a27c-0e11-487a-94d3-d8cc91bd3913" />
+<br>
+<br>
 
 
 <img width="1897" height="854" alt="Screenshot 2026-04-07 154549" src="https://github.com/user-attachments/assets/bf2f29af-754c-4497-843b-42d00208bcc2" />
+<br>
+<br>
 
 
 <img width="1906" height="862" alt="Screenshot 2026-04-07 154555" src="https://github.com/user-attachments/assets/73ac4025-14e7-4b44-8408-532e5166d459" />
+<br>
+<br>
 
 
 
